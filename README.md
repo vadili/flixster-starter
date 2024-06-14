@@ -2,6 +2,7 @@
 ## Unit Assignment: Flixster
 
 Submitted by: Chikodili Valerie Okeke
+
 Estimated time spent: 20 hours spent in total
 
 Deployed Application (optional): [Flixster Deployed Site](https://flixster-starter-vbyr.onrender.com/)
@@ -53,15 +54,17 @@ Deployed Application (optional): [Flixster Deployed Site](https://flixster-start
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Yes, the topics discussed in the labs were of great help and significantly enhanced my understanding of the projects. 
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+I was able to use my time efficiently and managed to complete 4 out of the 5 stretch features. However, given more time, I would have made several enhancements to the project:
+
+Additional Features: I would have aimed to complete the sidebar stretch feature and possibly added a top 10 shown movies in a specific region. 
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+A lot of things went well with trial and error. One recurring issue was that my first page kept duplicating, which I struggled to resolve effectively. Observing my peers, I noticed some innovative approaches they used for certain features. Inspired by their methods, I attempted to incorporate similar features into my own project, not by copying directly, but by adapting them in a way that suited my project.
 
 
 ### Shout out
