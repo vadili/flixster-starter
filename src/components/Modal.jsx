@@ -61,10 +61,10 @@ export function Modal({movie, onClose}) {
     return(
         <div className='backdrop'>
             <div className="backdrop-card">
-            <div className='backdrop-image'>
-            <div className='imageContainer'>
-                    <img className='movie-poster' src={"https://image.tmdb.org/t/p/w500" + movie.poster_path}></img>
-                </div>
+                <div className='backdrop-image'>
+                    <div className='imageContainer'>
+                        <img className='movie-poster' src={"https://image.tmdb.org/t/p/w500" + movie.poster_path}></img>
+                    </div>
             <button className='close' onClick={onClose}><i className="fa-solid fa-xmark"></i></button>
             <div className='imageBackground'>
                 <img src={"https://image.tmdb.org/t/p/w500" + movie.backdrop_path} alt=""></img>

@@ -26,7 +26,7 @@
     justify-content: space-between;
 }
 .movie-poster{
-    width: 12vw;
+    width: 150px;
     position: absolute;
     z-index: 1;
 }
@@ -47,6 +47,7 @@
 .backdrop-card{
     background-color: steelblue;
     width: 80%;
+    background-position: center;
 }
 .backdrop-image{
     position: relative;
@@ -77,7 +78,7 @@
 .Description{
     width: 29vw;
     height: 120px;
-    overflow: scroll;
+    overflow-y: scroll;
     margin-left: 30px;
     padding-bottom: 15px;
 }
