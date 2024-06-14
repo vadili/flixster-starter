@@ -1,0 +1,82 @@
+.header {
+    display: flex;
+    color: white;
+    width: 100vw;
+    flex-wrap: wrap-reverse;
+    align-items: center;
+    padding: 10px 10px;
+}
+header{
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    background-color: black;
+}
+h2{
+    font-size: 16px;
+    font-weight: 100;
+}
+select{
+    background-color: transparent;
+    color: white;
+    border: none;
+    padding: 5px 5px;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.tag{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    flex-wrap: wrap;
+    align-items: center;
+    
+}
+.header h1 {
+    margin: 0;
+    padding: 5px 15px;
+    color: steelblue;
+}
+.header-controls {
+    display: flex;
+    align-items: center;
+}
+.header input {
+    padding: 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    outline: none;
+    font-weight: 800;
+    margin-right: 10px;
+    width: 85%;
+    background-color: transparent;
+    border: grey solid 1px;
+}
+.header button  {
+    background-color: transparent;
+    color: white;
+    border: none;
+    padding: 5px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px; 
+}
+.header .sort-by {
+    background-color: grey;
+    color: orange;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.header .search-sort {
+    margin-right: 10px;
+    flex: 1;
+    display: flex;
+    justify-content: end;
+}

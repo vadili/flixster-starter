@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -10,6 +11,10 @@
   justify-content: space-evenly;
   color: white;
   padding: 20px;
+}
+.load-container {
+  border: 1px solid black;
+  margin-bottom: 30px;
 }
 
 @media (max-width: 600px) {

@@ -1,0 +1,10 @@
+.footer-container {
+    background-color: aliceblue !important;
+    height: 0px;
+    padding: 20px 0 60px 0;
+}
+
+p{
+    text-align: right;
+    margin-right: 40px;
+}
