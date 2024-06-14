@@ -4,7 +4,7 @@
 Submitted by: Chikodili Valerie Okeke
 Estimated time spent: 20 hours spent in total
 
-Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Flixster Deployed Site](https://flixster-starter-vbyr.onrender.com/)
 
 ### Application Features
 
